@@ -1,0 +1,8 @@
+{
+  "domain": "life360",
+  "name": "Life360 Device Tracker",
+  "documentation": "https://github.com/prbruckner/life360",
+  "dependencies": [],
+  "codeowners": ["pnbruckner"],
+  "requirements": []
+}
