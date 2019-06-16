@@ -4,7 +4,7 @@ with open("README.md") as fp:
     long_description = fp.read()
 
 version = {}
-with open("life360/version.py") as fp:
+with open("custom_components/life360/version.py") as fp:
     exec(fp.read(), version)
 
 setuptools.setup(
